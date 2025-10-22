@@ -14,7 +14,7 @@ What I focus on
 
 Get in touch
 - Email: omitelkady1@gmail.com
-- LinkedIn: LinkedIn Link
+- LinkedIn: [LinkedIn Link](https://www.linkedin.com/in/omar-elkady-847b051ba/)
 - GitHub: https://github.com/OmaryElkady
 
 Thanks for stopping by — feel free to explore the repos or open an issue/PR with suggestions or questions.
