@@ -1,20 +1,44 @@
-# Omar Elkady 👋
+# Omar Elkady — Data Engineer
 
-<!-- Animated tagline -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&width=680&lines=Data+Engineer+%E2%80%A2+ETL+%26+Real-time+Pipelines;Applied+ML+%26+Analytics;Building+Dependable+Data+Systems;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&width=700&lines=Data+Engineer+%C2%B7+ETL+%26+Real-Time+Pipelines;AWS+%C2%B7+Kubernetes+%C2%B7+Python+%C2%B7+Spark+%C2%B7+Databricks;3x+Delta+Air+Lines+Co-op+%C2%B7+Always+Building" alt="Typing SVG" />
 </p>
 
-Hi — I’m Omar. This is a compact home for my code, experiments, and notes focused on data engineering, ETL, and production-ready machine learning. I keep things practical and to the point — small utilities, short demos, and clear write-ups.
+---
 
-What I focus on
-- Reliable ETL pipelines and data quality
-- Real-time processing and orchestration
-- Practical ML for production and actionable analytics
+## Tech Stack
 
-Get in touch
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=OmaryElkady&show_icons=true&theme=dark&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmaryElkady&layout=compact&theme=dark&hide_border=true" height="160" />
+</p>
+
+---
+
+## Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| [Data-Science-Capstone](https://github.com/OmaryElkady/Data-Science-Capstone) | End-to-end capstone covering data pipelines, modeling, and analytics |
+
+---
+
+## Contact
+
 - Email: omitelkady1@gmail.com
-- LinkedIn: [LinkedIn Link](https://www.linkedin.com/in/omar-elkady-847b051ba/)
-- GitHub: https://github.com/OmaryElkady
-
-Thanks for stopping by — feel free to explore the repos or open an issue/PR with suggestions or questions.
+- LinkedIn: [linkedin.com/in/omar-elkady-847b051ba](https://www.linkedin.com/in/omar-elkady-847b051ba/)
