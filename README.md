@@ -24,17 +24,17 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OmaryElkady&show_icons=true&theme=dark&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmaryElkady&layout=compact&theme=dark&hide_border=true" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=OmaryElkady&theme=dark&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmaryElkady&layout=compact&theme=dark&hide_border=true&cache_seconds=1800&langs_count=6" height="160" />
 </p>
 
 ---
 
 ## Featured Projects
 
-| Project | Description |
-|---------|-------------|
-| [Data-Science-Capstone](https://github.com/OmaryElkady/Data-Science-Capstone) | End-to-end capstone covering data pipelines, modeling, and analytics |
+| Project | Stack |
+|---------|-------|
+| [✈️ Flightmasters — Delay Prediction](https://github.com/OmaryElkady/Data-Science-Capstone) | Databricks · Spark · Delta Lake · MLflow · Scikit-learn |
 
 ---
 
