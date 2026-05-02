@@ -25,7 +25,7 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=OmaryElkady&theme=dark&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmaryElkady&layout=compact&theme=dark&hide_border=true&cache_seconds=1800&langs_count=6" height="160" />
+  <img src="https://streak-stats.demolab.com?user=OmaryElkady&theme=dark&hide_border=true" height="160" />
 </p>
 
 ---
