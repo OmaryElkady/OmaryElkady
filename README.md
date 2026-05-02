@@ -25,8 +25,6 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=OmaryElkady&theme=dark&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmaryElkady&layout=compact&theme=dark&hide_border=true&langs_count=6&exclude_repo=finwyse" height="160" />
-</p>
 
 ---
 
