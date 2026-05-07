@@ -25,7 +25,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats-orpin-pi-48.vercel.app/api?username=OmaryElkady&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&hide_rank=true&card_width=450" height="220" />
-  <img src="https://github-readme-stats-orpin-pi-48.vercel.app/api/top-langs/?username=OmaryElkady&layout=pie&theme=tokyonight&hide_border=true&langs_count=4&card_width=200" height="280" />
+  <img src="https://github-readme-stats-orpin-pi-48.vercel.app/api/top-langs/?username=OmaryElkady&layout=pie&theme=tokyonight&hide_border=true&langs_count=4&card_width=280" height="260" />
 </p>
 
 <p align="center">
