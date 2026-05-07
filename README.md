@@ -24,8 +24,8 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-orpin-pi-48.vercel.app/api?username=OmaryElkady&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" height="165" />
-  <img src="https://github-readme-stats-orpin-pi-48.vercel.app/api/top-langs/?username=OmaryElkady&layout=compact&theme=dark&hide_border=true&langs_count=8" height="165" />
+  <img src="https://github-readme-stats-orpin-pi-48.vercel.app/api?username=OmaryElkady&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&hide_rank=true" height="165" />
+  <img src="https://github-readme-stats-orpin-pi-48.vercel.app/api/top-langs/?username=OmaryElkady&layout=pie&theme=tokyonight&hide_border=true&langs_count=8" height="165" />
 </p>
 
 ---
