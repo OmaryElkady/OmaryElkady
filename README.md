@@ -24,12 +24,12 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-orpin-pi-48.vercel.app/api?username=OmaryElkady&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&hide_rank=true&card_width=450" height="600" />
-  <img src="https://github-readme-stats-orpin-pi-48.vercel.app/api/top-langs/?username=OmaryElkady&layout=pie&theme=tokyonight&hide_border=true&langs_count=6&card_width=450" height="240" />
+  <img src="https://github-readme-stats-orpin-pi-48.vercel.app/api?username=OmaryElkady&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&hide_rank=true&card_width=550" height="800" />
+  <img src="https://github-readme-stats-orpin-pi-48.vercel.app/api/top-langs/?username=OmaryElkady&layout=pie&theme=tokyonight&hide_border=true&langs_count=6&card_width=450" height="250" />
 </p>
 
 <p align="center">
-  <img src="https://github-activity-graph.vercel.app/graph?username=OmaryElkady&theme=tokyo-night&hide_border=true&area=true&area_color=70a5fd" width="95%" />
+  <img src="https://github-activity-graph.vercel.app/graph?username=OmaryElkady&theme=tokyo-night&hide_border=true&area=true&area_color=70a5fd" width="90%" />
 </p>
 
 ---
