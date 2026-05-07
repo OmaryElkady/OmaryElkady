@@ -29,7 +29,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph-68p9t4xub-omaryelkadys-projects.vercel.app/graph?username=OmaryElkady&theme=tokyo-night&hide_border=true&area=true&area_color=70a5fd" width="90%" />
+  <img src="https://github-readme-activity-graph-black.vercel.app/graph?username=OmaryElkady&theme=tokyo-night&hide_border=true&area=true&area_color=70a5fd" width="90%" />
 </p>
 
 ---
