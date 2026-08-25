@@ -38,7 +38,9 @@
 
 | Project | Description |
 |---------|-------------|
+|[Misinformation Pipeline](https://github.com/OmaryElkady/misinformation-lakehouse) | End-to-end MLOps platform that ingests public misinformation datasets, fine-tunes RoBERTa for binary classification, and serves real-time predictions via FastAPI with optional LLM-generated explanations |
 | [Data-Science-Capstone](https://github.com/OmaryElkady/Data-Science-Capstone) | End-to-end capstone covering data pipelines, modeling, and analytics |
+
 
 ---
 
