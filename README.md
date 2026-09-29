@@ -76,12 +76,11 @@ Hackathon build for the Google Cloud Rapid Agent Hackathon (Fivetran track). A c
 ## 📈 GitHub Activity
 
 <p align="center">
-  <img src="./profile/stats.svg" height="170" alt="GitHub stats" />
-  <img src="./profile/top-langs.svg" height="170" alt="Top languages" />
+  <img src="./profile/stats.svg" alt="GitHub stats" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph-black.vercel.app/graph?username=OmaryElkady&theme=tokyo-night&hide_border=true&area=true&area_color=70a5fd&custom_title=Contributions%20(last%2031%20days)" width="95%" alt="Contribution graph" />
 </p>
 
-<sub>Stats cards are regenerated daily by a <a href=".github/workflows/readme-cards.yml">GitHub Action</a>. Most of my day-to-day work at Delta lives in private enterprise repos.</sub>
+<sub>Stats card is regenerated daily by a <a href=".github/workflows/readme-cards.yml">GitHub Action</a>. Most of my day-to-day work at Delta lives in private enterprise repos.</sub>
