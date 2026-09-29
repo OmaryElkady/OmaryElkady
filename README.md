@@ -34,7 +34,7 @@ End-to-end MLOps platform: 36K records flow through a medallion lakehouse on S3 
 ### ⚽ [Scout WC26: AI Scouting Agent](https://github.com/OmaryElkady/scout-wc26)
 `GCP` `BigQuery` `Fivetran Connector SDK` `Gemini` `Google ADK` `Cloud Run`
 
-Hackathon build for the Google Cloud Rapid Agent Hackathon (Fivetran track). A custom Fivetran connector loads live football data into a Bronze/Silver/Gold **BigQuery** warehouse. A **Gemini 2.5 Flash** agent with 9 tools answers scouting questions, writes SQL-backed charts, and generates PDF reports. **205 unit tests**, deployed on Cloud Run.
+Built for the Google Cloud Rapid Agent Hackathon (Fivetran track). A custom Fivetran connector lands live football data from 10 leagues in a Bronze/Silver/Gold **BigQuery** warehouse. A **Gemini 2.5 Flash** agent with 9 tools queries the Gold layer to answer scouting questions, write SQL-backed charts, and generate PDF reports. Served through FastAPI on Cloud Run, with **244 unit tests** in CI.
 
 ---
 
